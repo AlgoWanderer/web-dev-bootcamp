@@ -1,2 +1,2 @@
 # web-dev-bootcamp
-Just a few thinsg from the beginning of my learning journey
+Just a few things from the beginning of my learning journey

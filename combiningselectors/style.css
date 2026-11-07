@@ -1,0 +1,40 @@
+/* Write your code here: */
+
+h1, h2{
+    color: blueviolet;
+}
+
+/* div > p{
+    color: firebrick;
+}*/
+/*or*/
+
+.box > p{
+    color: firebrick;
+}
+
+/*
+div ul{
+    color: blue;
+}
+
+.box li{
+    color: firebrick;
+}
+
+ul > p.done{
+    font-size: 0.5rem;
+}
+*/
+
+.box ul{
+        color: blue;
+}
+
+li.done{
+    color: seagreen;
+}
+
+ul p.done{
+    font-size: 0.5rem;
+}
